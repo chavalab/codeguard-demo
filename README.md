@@ -1,3 +1,3 @@
 # CodeGuard Demo
 
-Testing PR comment integration.
+Testing PR comment integrnation.
